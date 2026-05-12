@@ -591,9 +591,8 @@ to any person obtaining a copy of this software...
 
 Your Name
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Website: https://yourwebsite.com
+- GitHub: https://github.com/bhawandeepkaur888
+- LinkedIn: https://www.linkedin.com/in/bhawandeep-kaur-621077287/
 
 ---
 
